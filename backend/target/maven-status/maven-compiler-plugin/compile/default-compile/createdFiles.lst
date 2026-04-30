@@ -1,0 +1,9 @@
+com\admin\userprofile\controller\UserController.class
+com\admin\userprofile\dto\AddressRequest.class
+com\admin\userprofile\UserProfileApplication.class
+com\admin\userprofile\model\Address.class
+com\admin\userprofile\model\User.class
+com\admin\userprofile\service\UserService.class
+com\admin\userprofile\model\Address$AddressBuilder.class
+com\admin\userprofile\model\User$UserBuilder.class
+com\admin\userprofile\dto\UserUpdateRequest.class
