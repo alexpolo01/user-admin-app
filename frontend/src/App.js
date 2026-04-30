@@ -1,8 +1,8 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { ThemeProvider, createTheme, CssBaseline } from '@mui/material';
-import UserListPage from './pages/user_lists/UserListPage';
-import UserDetailPage from './pages/user_details/UserDetailPage';
+import UserListPage from './pages/UserListPage';
+import UserDetailPage from './pages/UserDetailPage';
 
 const theme = createTheme({
   palette: {
